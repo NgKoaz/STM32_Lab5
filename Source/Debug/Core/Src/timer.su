@@ -1,0 +1,4 @@
+../Core/Src/timer.c:13:9:getFlagTimer	16	static
+../Core/Src/timer.c:16:6:setTimer	16	static
+../Core/Src/timer.c:20:6:timerRun	16	static
+../Core/Src/timer.c:28:6:allTimerRun	8	static

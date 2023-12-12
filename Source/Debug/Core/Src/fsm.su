@@ -1,0 +1,7 @@
+../Core/Src/fsm.c:22:6:init_parser_fsm	4	static
+../Core/Src/fsm.c:27:10:nextIndex	16	static
+../Core/Src/fsm.c:34:6:send_value	16	static
+../Core/Src/fsm.c:40:6:resend_value	8	static
+../Core/Src/fsm.c:44:6:parser_fsm	16	static
+../Core/Src/fsm.c:154:6:uart_fsm	8	static
+../Core/Src/fsm.c:179:6:HAL_UART_RxCpltCallback	16	static
